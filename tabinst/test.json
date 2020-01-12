@@ -1,0 +1,14 @@
+{
+	"groupName": "test",
+	"instructions":
+	[
+		{
+			"instructionName": "testInst",
+			"instructionLines": 
+			[
+				"Character Name: {generic.name}",
+				"Another Thing: {generic.pet}"
+			]
+		}
+	]
+}
