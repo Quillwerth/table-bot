@@ -1,0 +1,30 @@
+{
+	"collectionName": "generic",
+	"tables": 
+	[
+		{
+			"tableName": "name",
+			"values": 
+			[
+				"Douglas",
+				"Trevor",
+				"Paul",
+				"Steve the {generic.pet}"
+			]
+
+		},
+		{
+			"tableName": "pet",
+			"values": 
+			[
+				"dog",
+				"a kat named {generic.name}",
+				"fish",
+				"lizard"
+			]
+
+		}
+	]
+
+
+}

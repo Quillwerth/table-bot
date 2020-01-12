@@ -30,5 +30,3 @@ class TableInstruction:
 	def __init__(self, src):
 		self.name = src["instructionName"]
 		self.lines = src["instructionLines"]
-
-load()
